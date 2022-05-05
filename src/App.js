@@ -44,11 +44,11 @@ function App() {
 
     <section className="container text-center my-5">
       <article className="d-flex flex-column align-items-center">
-        <img
+        {/* <img
           src={process.env.PUBLIC_URL + "ndway.png"}
           alt="logo"
           className="w-50 mb-5"
-        />
+        /> */}
         <Button
           variant="warning"
           className="w-50 mb-5"
